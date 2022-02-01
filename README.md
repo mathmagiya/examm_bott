@@ -25,5 +25,12 @@ This bot is loaded on my VPS, that's why is works in any time. Command for Linux
 
 <code>nohup python3.9 main.py &</code>
 
+Also privided logging: any brand's button push (and it's time) is visible at
+
+db_button_push_log.txt
+
+and any changes of prices
+
+db_query_log.txt
 
 
