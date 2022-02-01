@@ -9,6 +9,7 @@ Comands:
 **/help**
 
 **/admin**
+
 This command shows possible actions for Mr. Admistrator (how to refresh prices)
 
 **/addnewprice**
