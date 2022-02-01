@@ -17,6 +17,9 @@ This command shows possible actions for Mr. Admistrator (how to refresh prices)
 
 Use this command after loading new csv file. 
 
+## ORM
+Admin uploads file with new prices and the content loads into sqlite3 DB by sqlAlchemy ORM. And then any user's query also handels by ORM commands. 
+
 
 ## NB for teachers: 
 
