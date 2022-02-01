@@ -2,7 +2,7 @@
 
 ##Repair of copying equipment bot
 
-Comands: 
+Commands: 
 
 **/start**
 
