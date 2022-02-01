@@ -1,7 +1,7 @@
 # examm_bott
 # @neotor2_bot
 
-##Repair of copying equipment bot
+## Repair of copying equipment bot
 
 Commands: 
 
