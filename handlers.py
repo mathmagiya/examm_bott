@@ -9,7 +9,7 @@ from datetime import datetime
 
 @dp.message_handler(commands="start")
 async def cmd_start(message: types.Message):
-    await message.answer("Выберите <strong>бренд</strong> Вашего устройтва:", reply_markup=keyboard)
+    await message.answer("Choose a <strong>brand</strong> of your equipment:", reply_markup=keyboard)
 
 
 
